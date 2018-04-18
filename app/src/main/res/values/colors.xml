@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#355c7d</color>
+    <color name="colorPrimaryDark">#355c7d</color>
+    <color name="colorAccent">#FF065C</color>
+
+    <color name="blueStart">#f8b195</color>
+    <color name="blueEnd">#f67280</color>
+    <color name="purpleStart">#f67280</color>
+    <color name="purpleEnd">#c06c84</color>
+    <color name="roseStart">#c06c84</color>
+    <color name="roseEnd">#6c5b7b</color>
+    <!--<color name="greenStart">#6c5b7b</color>-->
+    <!--<color name="greenEnd">#355c7d</color>-->
+</resources>
